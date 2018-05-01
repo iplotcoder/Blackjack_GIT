@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=nm\ m
+comment1.target=Player(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment2.params=betAmount
+comment2.target=void\ bet(int)
+comment3.params=c
+comment3.target=void\ hit(Card)
+comment4.params=
+comment4.target=void\ stay()
+comment5.params=
+comment5.target=int\ getHandTotal()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
